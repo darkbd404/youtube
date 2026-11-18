@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AS MASTER Ad Blocker</string>
+    <string name="a11y_description">Reads only the YouTube screen to find a visible Skip Ads button and taps it. No data is collected or sent.</string>
+</resources>
