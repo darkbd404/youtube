@@ -1,2 +1,0 @@
--keep class com.asmaster.adblocker.SkipService { *; }
--keepclassmembers class * extends androidx.datastore.preferences.protobuf.GeneratedMessageLite { <fields>; }
