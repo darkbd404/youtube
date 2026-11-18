@@ -1,8 +1,0 @@
-<resources>
-    <color name="navy">#0B1426</color>
-    <style name="Theme.ASMaster" parent="android:Theme.Material.NoActionBar">
-        <item name="android:windowBackground">@color/navy</item>
-        <item name="android:statusBarColor">@color/navy</item>
-        <item name="android:navigationBarColor">@color/navy</item>
-    </style>
-</resources>
